@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "b183c6b75396617006769d97",
+  "owner": "mvdccejnx",
+  "repo": "page-0e42d2b8ff5564c6a70295aa",
+  "title": "一起浪",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "0e42d2b8ff5564c6a70295aa",
+      "a": "一起浪",
+      "b": "机场官网线路发布页",
+      "entity": "一起浪",
+      "brand": "一起浪",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "f075e9020e21c6d92513df3e957a97f00d1ee056d15b9f01b95464c3fa3b32f2",
+      "content": {
+        "primary_entity": "一起浪",
+        "keyword1": "一起浪",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备选客户端：手机装 Shadowrocket 或 Clash，电脑用 Clash Verge，路由器导入订阅后全屋设备可接入。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "选好套餐，导入订阅，轻松连上高速线路。",
+          "AI_CLOSING_TITLE": "开始一起浪",
+          "AI_DESCRIPTION": "，一起浪提供基础版、旗舰版与团队版三档订阅，月付最低 ¥15，年付更划算。旗舰版支持 5 台设备与 IPLC 专线游戏加速，适合重度流媒体和游戏用户。",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB 流量、支持 3 台设备，适合轻度浏览和偶尔追剧；旗舰版每月 300GB、5 台设备，增加全节点流媒体解锁和 IPLC 专线，适合游戏和高清视频用户。",
+          "AI_FAQ_ANSWER_2": "同一时间在线的设备数量因套餐而异：基础版 3 台、旗舰版 5 台、团队版 20 台。切换设备时建议先退出不用的客户端，避免超过限制。",
+          "AI_FAQ_ANSWER_3": "支持主流订阅格式，在客户端中粘贴订阅链接即可导入。手机端常用 Shadowrocket，电脑端可用 Clash Verge，具体以客户端文档为准。",
+          "AI_FAQ_ANSWER_4": "月付灵活，适合短期需求；年付一次付清更划算，例如基础版年付 ¥150、旗舰版年付 ¥350、团队版年付 ¥850，相当于省下两个月费用。",
+          "AI_FAQ_ANSWER_5": "打开客户端后选择延迟低的节点，若遇高峰期卡顿可切换至 IPLC 专线节点或非高峰时段线路。旗舰版和团队版提供更高带宽节点，体验更稳定。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "基础版和旗舰版有什么区别？",
+          "AI_FAQ_QUESTION_2": "一个账号能同时登录几台设备？",
+          "AI_FAQ_QUESTION_3": "如何导入订阅到客户端？",
+          "AI_FAQ_QUESTION_4": "月付和年付应该怎么选？",
+          "AI_FAQ_QUESTION_5": "遇到速度慢或延迟高怎么办？",
+          "AI_FAQ_TITLE": "常见疑问",
+          "AI_FEATURES_INTRO": "从流量、设备和线路三个角度了解一起浪订阅，按需选择更省心。",
+          "AI_FEATURES_TITLE": "订阅亮点",
+          "AI_FEATURE_TEXT_1": "基础版 100GB/月、旗舰版 300GB/月、团队版 1000GB/月，按使用量选择不浪费。",
+          "AI_FEATURE_TEXT_2": "支持设备数从 3 台到 20 台，团队版可满足小型团队共享使用。",
+          "AI_FEATURE_TEXT_3": "旗舰版含 IPLC 专线游戏加速，普通线路满足日常浏览与流媒体。",
+          "AI_FEATURE_TITLE_1": "流量分档",
+          "AI_FEATURE_TITLE_2": "设备覆盖",
+          "AI_FEATURE_TITLE_3": "线路优化",
+          "AI_GUIDE_INTRO": "三步完成从选择到使用：先选套餐，再看设备需求，最后按客户端文档配置订阅。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "一起浪提供多档海外网络加速订阅，覆盖流媒体、游戏和日常浏览场景。基础版、旗舰版和团队版按流量、设备数和线路等级区分，用户可按需选择并导入客户端使用。",
+          "AI_HERO_SUBTITLE": "一起浪，选对套餐畅享高速网络",
+          "AI_HIGHLIGHT_1": "月付 ¥15 起，年付更划算",
+          "AI_HIGHLIGHT_2": "最高支持 20 台设备同时在线",
+          "AI_HIGHLIGHT_3": "IPLC 专线优化游戏体验",
+          "AI_PLANS_INTRO": "基础版适合轻度用户，旗舰版适合影音与游戏，团队版适合多设备共享。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据每月流量和设备数量选择基础版、旗舰版或团队版。",
+          "AI_STEP_TEXT_2": "确认手机、电脑或路由器等设备是否在套餐支持范围内。",
+          "AI_STEP_TEXT_3": "在客户端中粘贴订阅链接完成导入，选择节点即可使用。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "一起浪 订阅套餐"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "jrzdb.cn",
+    "host": "jrzdb.cn"
+  },
+  "file_hashes": {
+    "index.html": "906159fc2d000733a56f11d076c639cee6c1bbc0eb55f9c6995dade352bd35a9",
+    "sitemap.xml": "f6e90a21636f0d837cb97dfe49958390021d8e8cf855cd3610b529eb6374a4f8",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "a7a828b925f786ee214733d7c509de3b3c2c527a35179db76a4fe088fa6e1fc5",
+    "robots.txt": "06209bb07a4bb10170f08f5a89e50cdd26f6701d786d3756e80bee4ef993ae45",
+    "43ccd06aea822f42c529bb0556f8b8cf.txt": "e30b6220bbc129b096ebfbe8c5bfb3f4a4174e9965621132eb1363b4a7f9a348"
+  },
+  "revision": "40952f8aa36a7d19a0273a19ac959ff5f01370a65232400e26833c740c068a2b"
+}
